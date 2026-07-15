@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+
+
+*.txt
+
+# Folders
+.pyspark_venv
+spark_configuration/
